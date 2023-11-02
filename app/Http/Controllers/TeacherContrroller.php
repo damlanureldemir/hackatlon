@@ -2,7 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use http\Client\Curl\User;
+
+use App\Models\User;
 use Illuminate\Http\Request;
 use Yajra\DataTables\DataTables;
 
